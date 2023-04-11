@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Shaders/fragshader.frag</file>
+        <file>Shaders/vertexshader.vert</file>
+        <file>Textures/marble.jpg</file>
+        <file>Textures/metal.png</file>
+        <file>Shaders/singlefragshader.frag</file>
+    </qresource>
+</RCC>
